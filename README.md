@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chuksys
-- 👀 I’m interested in writing clean code
+- 👀 I’m interested in writing cleaner code
 - 🌱 I’m currently learning React Native and Flutter
 - 💞️ I’m looking to collaborate on Mobile App Projects
 - 📫 How to reach me: Send an email to chuksagbakuru@gmail.com
