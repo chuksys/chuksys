@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chuksys
-- 👀 I’m interested in better ways of writing cleaner code
-- 🌱 I’m currently learning Blockchain Development.
-- 💞️ I’m looking to collaborate on Blockchain Projects.
+- 👀 I’m interested in innovative and utility-driven bitcoin projects.
+- 🌱 I’m currently building on bitcoin.
+- 💞️ I’m looking to collaborate on bitcoin-only projects.
 - 📫 How to reach me: Send an email to chuksagbakuru@gmail.com
 
 <!---
